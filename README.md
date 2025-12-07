@@ -1,6 +1,6 @@
 ## List all aliases pretty
 
-This zsh/bash script works in macOS Tahoe and is an alternative for showing the aliases like the `alias` command, but pretty
+This zsh/bash script runs on macOS Tahoe and shows your aliases in a cleaner, more readable format than the alias command
 
 <br>
 <img width="359" height="232" alt="image" src="https://github.com/user-attachments/assets/a6480588-b5c0-4c81-a54b-0d1ee3b62bbe" />
