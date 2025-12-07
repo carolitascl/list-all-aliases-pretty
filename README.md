@@ -1,4 +1,4 @@
-## List all aliases prettify
+## List all aliases pretty
 
 This zsh/bash script works in macOS Tahoe and is an alternative for showing the aliases like the `alias` command, but pretty
 
