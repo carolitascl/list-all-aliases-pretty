@@ -12,13 +12,13 @@ This zsh/bash script runs on macOS Tahoe and shows your aliases in a cleaner, mo
 > 1. Open the terminal
 > 2. Copy the script once at the end of the ``` ~/.zshrc ``` file
 > 3. Run the following command once: ``` source ~/.zshrc ```
-> 4. Run `alias-alist`
+> 4. Run `alias-list`
 
 #### In bash
 > 1. Open the terminal
 > 2. Copy the script once at the end of the ``` ~/.bashrc ``` file
 > 3. Run the following command once: ``` source ~/.bashrc ```
-> 4. Run `alias-alist`
+> 4. Run `alias-list`
 
 <br>
 
