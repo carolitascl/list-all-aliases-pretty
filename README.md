@@ -1,12 +1,15 @@
-## List all aliases pretty
+## List all zsh/bash aliases in prettier format
 
 This zsh/bash script runs on macOS Tahoe and shows your aliases in a cleaner, more readable format than the alias command
 
 <br>
+
 <img width="359" height="232" alt="image" src="https://github.com/user-attachments/assets/a6480588-b5c0-4c81-a54b-0d1ee3b62bbe" />
-<br>
+
+<br><br>
 
 ### How to use it
+---
 
 #### In zsh
 > 1. Open the terminal
